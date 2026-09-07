@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# GROMACS output/data files (exclude from repo)
+*.xtc
+*.trr
+*.edr
+*.cpt
+*.gro
+*.tpr
+*.log
+*.xvg
+*.ndx
